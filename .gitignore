@@ -1,0 +1,48 @@
+# C#
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio
+.vs/
+.vscode/
+*.[Ss]u[o]
+*.[Uu]ser
+*.[Uu]ser.*
+*.[Cc]ache
+*.[Pp]ublish.xml
+*.[Pp]ublish.*
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.log
+*.scc
+*.v11.suo
+*.v12.suo
+*.[Cc]odeproj.user
+*.[Pp]roj.user
+*.[Pp]ubxml.user
+*.[Bb]uild.user
+
+# Rider
+.idea/
+*.sln.iml
+*.sln.dotSettings.user
+
+# Others
+*.DS_Store
+Thumbs.db
+gemini_api_log.txt
+output.log
